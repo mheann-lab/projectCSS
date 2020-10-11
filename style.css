@@ -67,3 +67,52 @@ ul li{
     color: azure;
     font-size: 20px;
 }
+body{
+    color: aqua;
+    font-weight: bolder;
+    font-size: 20px;
+    background-image: url(received_1450805188453132.jpg);
+    background-position: center;
+    padding-bottom: 10%;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+header{
+    text-align: center;
+    font-family: Lucida;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: normal;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1{
+    font-size: 30px;
+    color: lightblue;
+    font-weight: bold;
+    text-align: center;
+    font-family: Century Gothic;
+}
+h2{
+    font-size: 30px;
+    color: lightblue;
+    font-family: Century Gothic;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: cadetblue;
+    font-family: Century Gothic;
+    text-align: center;
+}
+li{
+    font-size: 20px;
+    font-family: Century Gothic;
+    color: cadetblue;
+    text-align: center;
+}
